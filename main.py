@@ -283,6 +283,7 @@ root.title("BROWSEARCH")
 
 
 
+
 root.geometry("630x40+400+80")
 root.resizable(False, False)
 root.config(bg=rgb_kolor((43, 43, 43)))
